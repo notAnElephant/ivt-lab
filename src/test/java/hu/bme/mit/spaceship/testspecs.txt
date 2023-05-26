@@ -1,0 +1,7 @@
+Tesztesetek kizárólag a specifikáció alapján a GT4500 fireTorpedo metódusához: 
+
+1. Single módban egyetlen torpedó lövése, a torpedók száma 1-el csökken.
+2. Single módban két lövés leadása, mindkét torpedónak pontosan 1 lövést kell leadnia.
+3. Single módban egy lövés leadása úgy, hogy mindkét torpedó üres
+4. All módban lövés leadása úgy, hogy egyik torpedó sem üres
+5. All módban lövése leadása úgy, hogy mindkét torpedó üres
